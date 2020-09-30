@@ -2,3 +2,4 @@
 
 - Diego Sánchez
 - Andrés Sánchez Juárez
+- Álvaro Merino Fernández
