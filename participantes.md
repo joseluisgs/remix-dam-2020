@@ -2,3 +2,4 @@
 
 - Diego Sánchez
 - Andrés Sánchez Juárez
+- José Antonio Sánchez Mantero Rodríguez Peral
