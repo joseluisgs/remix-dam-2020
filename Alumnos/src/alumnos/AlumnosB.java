@@ -11,6 +11,6 @@ package alumnos;
  */
 public class AlumnosB {
     public void listarAlumnos(){
-        
+        System.out.println("Iván Coello Cortés");
     }
 }
