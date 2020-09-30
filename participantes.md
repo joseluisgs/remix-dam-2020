@@ -2,3 +2,5 @@
 
 - Diego Sánchez
 - Andrés Sánchez Juárez
+- Jorge Prieto Medina
+- Salvador Hernández de la Beldad
