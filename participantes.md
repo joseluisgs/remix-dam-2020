@@ -6,4 +6,5 @@
 - Ricardo Martinez
 - Jose María Gestal Maya
 - Andrés Sánchez Juárez
+- Álvaro Merino Fernández
 - José Antonio Sánchez Mantero Rodríguez Peral
